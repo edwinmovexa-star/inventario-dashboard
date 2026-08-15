@@ -1,0 +1,35 @@
+# Dependencias
+node_modules/
+
+# Compilaciones
+dist/
+out/
+build/
+
+# Variables de entorno
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env.*.local
+
+# Cloudflare y herramientas
+.wrangler/
+.openai/
+
+# Registros
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Archivos temporales
+*.tmp
+*.temp
