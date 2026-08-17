@@ -364,7 +364,6 @@ svg{
 }
 .operations-grid{
     display:grid;
-    /* grid-template-columns:minmax(0,1.8fr) minmax(280px,.8fr); */
     gap:15px;
     margin-bottom:15px
 }
